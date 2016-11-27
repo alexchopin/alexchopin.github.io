@@ -1,3 +1,4 @@
+rm -rf docs
 mv dist docs
 git add .
 git commit -a -m "Update website"
