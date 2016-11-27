@@ -30,16 +30,13 @@ h1, h2 {
   margin: 0;
   font-weight: 300;
   letter-spacing: 1px;
-  overflow: hidden;
 }
 h1 {
-  font-size: 3.6em;
   padding: 0;
 }
 h2 {
   color: #ccc;
   font-size: 2em;
-  padding: 20px 0;
 }
 .page-enter-active, .page-leave-active
 {
