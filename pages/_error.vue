@@ -2,7 +2,7 @@
   <section>
     <h1>{{ error.statusCode }}</h1>
     <h2>{{ error.message }}</h2>
-    <router-link v-if="error.statusCode === 404" class="error-link" to="/">
+    <router-link v-if="error.statusCode === 404" to="/">
       Website
     </router-link>
   </section>
