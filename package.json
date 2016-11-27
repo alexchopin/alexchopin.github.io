@@ -12,6 +12,9 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "git subtree push --prefix dist origin master"
+    "deploy": "push-dir --dir=dist --branch=master"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
