@@ -1,0 +1,4 @@
+cp -r ../website/dist/ .
+git add .
+git commit -a -m "Update website"
+git push
