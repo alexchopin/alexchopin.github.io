@@ -1,0 +1,4 @@
+mv dist docs
+git add .
+git commit -a -m "Update website"
+git push
