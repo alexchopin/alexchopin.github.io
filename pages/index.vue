@@ -45,29 +45,7 @@ export default {
 }
 </script>
 
-<style>
-html, body {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1rem;
-  background-color: #171F26;
-  color: #fff;
-  margin: 0;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  align-content: center;
-  text-shadow: 1px 1px #000;
-}
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-section {
-  text-align: center;
-  display: inline-block;
-  padding: 30px;
-}
+<style scoped>
 img {
   margin: 30px 0;
   display: inline-block;
