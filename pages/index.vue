@@ -11,17 +11,17 @@
     </div>
     <ul>
       <li>
-        <a href="https://twitter.com/ChopinAlexandre" target="_blank">
+        <a href="https://twitter.com/ChopinAlexandre" target="_blank" rel="noopener">
           Twitter
         </a>
       </li>
       <li>
-        <a href="https://medium.com/@alexchopin" target="_blank">
+        <a href="https://medium.com/@alexchopin" target="_blank" rel="noopener">
           Medium
         </a>
       </li>
       <li>
-        <a href="https://github.com/alexchopin" target="_blank">
+        <a href="https://github.com/alexchopin" target="_blank" rel="noopener">
           Github
         </a>
       </li>
